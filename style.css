@@ -1,0 +1,17 @@
+body{
+  font-family: sans-serif;
+  background-color: #211347;
+  color: white;
+  font-family: Avnir Light;
+}
+header{
+    padding:20px;
+}
+nav{
+    
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: #3f228f;
+}
